@@ -19,8 +19,8 @@ I am a master student majoring in **Electronics and Communication Engineering** 
 
 - **Sep 2015 - June 2019:** TianGong University (B.E)
 - **Sep 2019 - May 2022:** TianJin University (M.E)
- (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+
+
 
 <br>
 
