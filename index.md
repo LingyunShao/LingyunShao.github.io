@@ -2,14 +2,14 @@
 layout: page
 ---
 
-# **Lingyun** SHAO
+# About Me
 
 <!-- <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
 <img src="https://lingyunshao.github.io/images/shaw3.jpg" class="floatpic" width="360" height="480">
 
 Here is **Lingyun Shao (邵凌云)**.
 
-I am a master student majoring in **Electronics and Communication Engineering** from TianJin University. Here is [[my CV](https://lingyunshao.github.io/file/CV_Lingyun Shao.pdf)].
+I am a master student majoring in **Electronics and Communication Engineering** from TianJin University, advised by[Prof.Qiang Li](http://faculty.tju.edu.cn/LiQiang/en/index.htm). Here is [[my CV](https://lingyunshao.github.io/file/CV_Lingyun Shao.pdf)].
 
 <br>
 
